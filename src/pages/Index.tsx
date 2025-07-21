@@ -326,7 +326,7 @@ export default function Index() {
             </div>
           </div>
         </div>
-      </footer>
+      </section>
 
       {/* Footer */}
       <footer className="bg-premium-black border-t border-premium-gold/20 py-12">
