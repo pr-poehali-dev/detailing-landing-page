@@ -25,11 +25,12 @@ export default {
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
 				premium: {
-					black: '#1A1A1A',
-					gold: '#C9A96E',
-					'light-gold': '#F4E7D1',
-					'dark-gray': '#2D2D2D',
-					white: '#FFFFFF'
+					black: '#000000',
+					white: '#FFFFFF',
+					red: '#DC2626',
+					'light-red': '#EF4444',
+					'dark-gray': '#1F2937',
+					'light-gray': '#F3F4F6'
 				},
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
